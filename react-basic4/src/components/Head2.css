@@ -1,0 +1,38 @@
+*{
+    
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 4rem;
+    background: rgb(34,193,195);
+    height: 70px;
+    border: 1px solid black;
+    border-radius: 0 0 12px 12px;
+}
+
+
+#Head{
+    color:rgb(221, 28, 28);
+    border: 1px solid red;
+    
+}
+#Head2{
+    color:rgb(84, 7, 207);
+    border: 1px solid red;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid red;
+}
+
+ul li {
+    margin-left: 1rem;
+    text-decoration: none;
+    list-style: none;
+    border: 1px solid red;
+}
